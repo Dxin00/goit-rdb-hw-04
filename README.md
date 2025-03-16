@@ -63,4 +63,22 @@ return_date (DATE)
 
 ![image](https://github.com/user-attachments/assets/8198004a-ff33-4bae-8a33-e067252ab97a)
 
+### 4.4 Згрупуйте за іменем категорії, порахуйте кількість рядків у групі, середню кількість товару (кількість товару знаходиться в order_details.quantity).
+
+![image](https://github.com/user-attachments/assets/b134327f-cc7b-46c9-a9a9-ac3a2d462fc9)
+
+### 4.5 Відфільтруйте рядки, де середня кількість товару більша за 21.
+
+![image](https://github.com/user-attachments/assets/f8877e80-5f1e-4867-8b1d-9949b7941f86)
+
+
+### 4.6 Відсортуйте рядки за спаданням кількості рядків.
+
+![image](https://github.com/user-attachments/assets/862c8383-f8bd-4292-9412-e30fc0cba5f0)
+
+
+### 4.7 Виведіть на екран (оберіть) чотири рядки з
+
+![image](https://github.com/user-attachments/assets/dc546409-8352-4a32-baed-ef2a494e61d5)
+
 
